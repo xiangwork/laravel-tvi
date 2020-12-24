@@ -3,7 +3,7 @@
  */
 
  html {
-    @apply bg-theme-base font-sans text-theme-base-contrast;
+    @apply bg-theme-base font-serif text-theme-base-contrast;
 }
 
 ::selection {

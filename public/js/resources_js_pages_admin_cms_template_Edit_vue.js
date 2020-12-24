@@ -1,7 +1,7 @@
 (self["webpackChunk"] = self["webpackChunk"] || []).push([["resources_js_pages_admin_cms_template_Edit_vue"],{
 
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=script&lang=js&":
-/*!**********************************************************************************************************************************************************************************************************************************************!*
+/*!**********************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=script&lang=js& ***!
   \**********************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -226,7 +226,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/TemplateField.vue?vue&type=script&lang=js&":
-/*!********************************************************************************************************************************************************************************************************************************************************!*
+/*!********************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/TemplateField.vue?vue&type=script&lang=js& ***!
   \********************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -503,7 +503,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/template_field_settings/NumberSettings.vue?vue&type=script&lang=js&":
-/*!*********************************************************************************************************************************************************************************************************************************************************************************!*
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/template_field_settings/NumberSettings.vue?vue&type=script&lang=js& ***!
   \*********************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -560,7 +560,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextAreaSettings.vue?vue&type=script&lang=js&":
-/*!***********************************************************************************************************************************************************************************************************************************************************************************!*
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextAreaSettings.vue?vue&type=script&lang=js& ***!
   \***********************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -617,7 +617,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextSettings.vue?vue&type=script&lang=js&":
-/*!*******************************************************************************************************************************************************************************************************************************************************************************!*
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextSettings.vue?vue&type=script&lang=js& ***!
   \*******************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -657,7 +657,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/core/forms/CheckboxGroup.vue?vue&type=script&lang=js&":
-/*!*******************************************************************************************************************************************************************************************************************************!*
+/*!*******************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/core/forms/CheckboxGroup.vue?vue&type=script&lang=js& ***!
   \*******************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -667,6 +667,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
 /* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -836,7 +846,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/core/forms/InputGroup.vue?vue&type=script&lang=js&":
-/*!****************************************************************************************************************************************************************************************************************************!*
+/*!****************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/core/forms/InputGroup.vue?vue&type=script&lang=js& ***!
   \****************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -846,6 +856,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
 /* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -1031,7 +1051,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/core/forms/SelectGroup.vue?vue&type=script&lang=js&":
-/*!*****************************************************************************************************************************************************************************************************************************!*
+/*!*****************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/core/forms/SelectGroup.vue?vue&type=script&lang=js& ***!
   \*****************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -1043,6 +1063,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! lodash */ "./node_modules/lodash/lodash.js");
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_0__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -1299,7 +1329,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/admin/cms/template/Edit.vue?vue&type=script&lang=js&":
-/*!*************************************************************************************************************************************************************************************************************************!*
+/*!*************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/admin/cms/template/Edit.vue?vue&type=script&lang=js& ***!
   \*************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -1504,7 +1534,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/mixins/admin/cms/template-field-settings.js":
-/*!******************************************************************!*
+/*!******************************************************************!*\
   !*** ./resources/js/mixins/admin/cms/template-field-settings.js ***!
   \******************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -1594,7 +1624,7 @@ var templateFieldSettingsMixin = {
 /***/ }),
 
 /***/ "./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=style&index=0&id=5c23bb94&scoped=true&lang=css&":
-/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=style&index=0&id=5c23bb94&scoped=true&lang=css& ***!
   \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
@@ -1618,7 +1648,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, "\n.ghost[data-v-5c23bb94] {\n    opaci
 /***/ }),
 
 /***/ "./node_modules/slugify/slugify.js":
-/*!*****************************************!*
+/*!*****************************************!*\
   !*** ./node_modules/slugify/slugify.js ***!
   \*****************************************/
 /***/ (function(module) {
@@ -1689,7 +1719,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, "\n.ghost[data-v-5c23bb94] {\n    opaci
 /***/ }),
 
 /***/ "./node_modules/sortablejs/modular/sortable.esm.js":
-/*!*********************************************************!*
+/*!*********************************************************!*\
   !*** ./node_modules/sortablejs/modular/sortable.esm.js ***!
   \*********************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5406,7 +5436,7 @@ Sortable.mount(Remove, Revert);
 /***/ }),
 
 /***/ "./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=style&index=0&id=5c23bb94&scoped=true&lang=css&":
-/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=style&index=0&id=5c23bb94&scoped=true&lang=css& ***!
   \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5436,7 +5466,7 @@ var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue":
-/*!*****************************************************************************!*
+/*!*****************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue ***!
   \*****************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5477,7 +5507,7 @@ component.options.__file = "resources/js/components/admin/cms/templates/Template
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/template_fields/TemplateField.vue":
-/*!***************************************************************************************!*
+/*!***************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/template_fields/TemplateField.vue ***!
   \***************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5516,7 +5546,7 @@ component.options.__file = "resources/js/components/admin/cms/templates/template
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/template_fields/template_field_settings/NumberSettings.vue":
-/*!****************************************************************************************************************!*
+/*!****************************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/template_fields/template_field_settings/NumberSettings.vue ***!
   \****************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5555,7 +5585,7 @@ component.options.__file = "resources/js/components/admin/cms/templates/template
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextAreaSettings.vue":
-/*!******************************************************************************************************************!*
+/*!******************************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextAreaSettings.vue ***!
   \******************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5594,7 +5624,7 @@ component.options.__file = "resources/js/components/admin/cms/templates/template
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextSettings.vue":
-/*!**************************************************************************************************************!*
+/*!**************************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextSettings.vue ***!
   \**************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5633,7 +5663,7 @@ component.options.__file = "resources/js/components/admin/cms/templates/template
 /***/ }),
 
 /***/ "./resources/js/components/core/forms/CheckboxGroup.vue":
-/*!**************************************************************!*
+/*!**************************************************************!*\
   !*** ./resources/js/components/core/forms/CheckboxGroup.vue ***!
   \**************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5672,7 +5702,7 @@ component.options.__file = "resources/js/components/core/forms/CheckboxGroup.vue
 /***/ }),
 
 /***/ "./resources/js/components/core/forms/InputGroup.vue":
-/*!***********************************************************!*
+/*!***********************************************************!*\
   !*** ./resources/js/components/core/forms/InputGroup.vue ***!
   \***********************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5711,7 +5741,7 @@ component.options.__file = "resources/js/components/core/forms/InputGroup.vue"
 /***/ }),
 
 /***/ "./resources/js/components/core/forms/SelectGroup.vue":
-/*!************************************************************!*
+/*!************************************************************!*\
   !*** ./resources/js/components/core/forms/SelectGroup.vue ***!
   \************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5750,7 +5780,7 @@ component.options.__file = "resources/js/components/core/forms/SelectGroup.vue"
 /***/ }),
 
 /***/ "./resources/js/pages/admin/cms/template/Edit.vue":
-/*!********************************************************!*
+/*!********************************************************!*\
   !*** ./resources/js/pages/admin/cms/template/Edit.vue ***!
   \********************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5789,7 +5819,7 @@ component.options.__file = "resources/js/pages/admin/cms/template/Edit.vue"
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=script&lang=js&":
-/*!******************************************************************************************************!*
+/*!******************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=script&lang=js& ***!
   \******************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5805,7 +5835,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/template_fields/TemplateField.vue?vue&type=script&lang=js&":
-/*!****************************************************************************************************************!*
+/*!****************************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/template_fields/TemplateField.vue?vue&type=script&lang=js& ***!
   \****************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5821,7 +5851,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/template_fields/template_field_settings/NumberSettings.vue?vue&type=script&lang=js&":
-/*!*****************************************************************************************************************************************!*
+/*!*****************************************************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/template_fields/template_field_settings/NumberSettings.vue?vue&type=script&lang=js& ***!
   \*****************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5837,7 +5867,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextAreaSettings.vue?vue&type=script&lang=js&":
-/*!*******************************************************************************************************************************************!*
+/*!*******************************************************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextAreaSettings.vue?vue&type=script&lang=js& ***!
   \*******************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5853,7 +5883,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextSettings.vue?vue&type=script&lang=js&":
-/*!***************************************************************************************************************************************!*
+/*!***************************************************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextSettings.vue?vue&type=script&lang=js& ***!
   \***************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5869,7 +5899,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/core/forms/CheckboxGroup.vue?vue&type=script&lang=js&":
-/*!***************************************************************************************!*
+/*!***************************************************************************************!*\
   !*** ./resources/js/components/core/forms/CheckboxGroup.vue?vue&type=script&lang=js& ***!
   \***************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5885,7 +5915,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/core/forms/InputGroup.vue?vue&type=script&lang=js&":
-/*!************************************************************************************!*
+/*!************************************************************************************!*\
   !*** ./resources/js/components/core/forms/InputGroup.vue?vue&type=script&lang=js& ***!
   \************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5901,7 +5931,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/core/forms/SelectGroup.vue?vue&type=script&lang=js&":
-/*!*************************************************************************************!*
+/*!*************************************************************************************!*\
   !*** ./resources/js/components/core/forms/SelectGroup.vue?vue&type=script&lang=js& ***!
   \*************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5917,7 +5947,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/pages/admin/cms/template/Edit.vue?vue&type=script&lang=js&":
-/*!*********************************************************************************!*
+/*!*********************************************************************************!*\
   !*** ./resources/js/pages/admin/cms/template/Edit.vue?vue&type=script&lang=js& ***!
   \*********************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5933,7 +5963,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=style&index=0&id=5c23bb94&scoped=true&lang=css&":
-/*!**************************************************************************************************************************************!*
+/*!**************************************************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=style&index=0&id=5c23bb94&scoped=true&lang=css& ***!
   \**************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5946,7 +5976,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=template&id=5c23bb94&scoped=true&":
-/*!************************************************************************************************************************!*
+/*!************************************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=template&id=5c23bb94&scoped=true& ***!
   \************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5963,7 +5993,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/template_fields/TemplateField.vue?vue&type=template&id=2fa2ec38&":
-/*!**********************************************************************************************************************!*
+/*!**********************************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/template_fields/TemplateField.vue?vue&type=template&id=2fa2ec38& ***!
   \**********************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5980,7 +6010,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/template_fields/template_field_settings/NumberSettings.vue?vue&type=template&id=e2777974&":
-/*!***********************************************************************************************************************************************!*
+/*!***********************************************************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/template_fields/template_field_settings/NumberSettings.vue?vue&type=template&id=e2777974& ***!
   \***********************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -5997,7 +6027,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextAreaSettings.vue?vue&type=template&id=78d78157&":
-/*!*************************************************************************************************************************************************!*
+/*!*************************************************************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextAreaSettings.vue?vue&type=template&id=78d78157& ***!
   \*************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6014,7 +6044,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextSettings.vue?vue&type=template&id=43ced0ac&":
-/*!*********************************************************************************************************************************************!*
+/*!*********************************************************************************************************************************************!*\
   !*** ./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextSettings.vue?vue&type=template&id=43ced0ac& ***!
   \*********************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6031,7 +6061,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/core/forms/CheckboxGroup.vue?vue&type=template&id=69f62957&":
-/*!*********************************************************************************************!*
+/*!*********************************************************************************************!*\
   !*** ./resources/js/components/core/forms/CheckboxGroup.vue?vue&type=template&id=69f62957& ***!
   \*********************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6048,7 +6078,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/core/forms/InputGroup.vue?vue&type=template&id=4090938a&":
-/*!******************************************************************************************!*
+/*!******************************************************************************************!*\
   !*** ./resources/js/components/core/forms/InputGroup.vue?vue&type=template&id=4090938a& ***!
   \******************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6065,7 +6095,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/components/core/forms/SelectGroup.vue?vue&type=template&id=5aa394fe&":
-/*!*******************************************************************************************!*
+/*!*******************************************************************************************!*\
   !*** ./resources/js/components/core/forms/SelectGroup.vue?vue&type=template&id=5aa394fe& ***!
   \*******************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6082,7 +6112,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/pages/admin/cms/template/Edit.vue?vue&type=template&id=4c2623c0&":
-/*!***************************************************************************************!*
+/*!***************************************************************************************!*\
   !*** ./resources/js/pages/admin/cms/template/Edit.vue?vue&type=template&id=4c2623c0& ***!
   \***************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6099,7 +6129,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=template&id=5c23bb94&scoped=true&":
-/*!***************************************************************************************************************************************************************************************************************************************************************!*
+/*!***************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/TemplateFieldEditor.vue?vue&type=template&id=5c23bb94&scoped=true& ***!
   \***************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6293,7 +6323,7 @@ render._withStripped = true
 /***/ }),
 
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/TemplateField.vue?vue&type=template&id=2fa2ec38&":
-/*!*************************************************************************************************************************************************************************************************************************************************************!*
+/*!*************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/TemplateField.vue?vue&type=template&id=2fa2ec38& ***!
   \*************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6501,7 +6531,7 @@ render._withStripped = true
 /***/ }),
 
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/template_field_settings/NumberSettings.vue?vue&type=template&id=e2777974&":
-/*!**************************************************************************************************************************************************************************************************************************************************************************************!*
+/*!**************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/template_field_settings/NumberSettings.vue?vue&type=template&id=e2777974& ***!
   \**************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6578,7 +6608,7 @@ render._withStripped = true
 /***/ }),
 
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextAreaSettings.vue?vue&type=template&id=78d78157&":
-/*!****************************************************************************************************************************************************************************************************************************************************************************************!*
+/*!****************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextAreaSettings.vue?vue&type=template&id=78d78157& ***!
   \****************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6659,7 +6689,7 @@ render._withStripped = true
 /***/ }),
 
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextSettings.vue?vue&type=template&id=43ced0ac&":
-/*!************************************************************************************************************************************************************************************************************************************************************************************!*
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/admin/cms/templates/template_fields/template_field_settings/TextSettings.vue?vue&type=template&id=43ced0ac& ***!
   \************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6710,7 +6740,7 @@ render._withStripped = true
 /***/ }),
 
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/core/forms/CheckboxGroup.vue?vue&type=template&id=69f62957&":
-/*!************************************************************************************************************************************************************************************************************************************!*
+/*!************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/core/forms/CheckboxGroup.vue?vue&type=template&id=69f62957& ***!
   \************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6726,9 +6756,24 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("div", { staticClass: "flex flex-col" }, [
-    _c("label", { class: _vm.label_class, attrs: { for: _vm.checkbox_id } }, [
-      _vm._v("\n        " + _vm._s(_vm.label_text) + "\n    ")
-    ]),
+    _c(
+      "label",
+      { class: _vm.label_class, attrs: { for: _vm.checkbox_id } },
+      [
+        _vm._t("default", [
+          _c("span", { staticClass: "flex flex-row items-baseline" }, [
+            _c("span", [_vm._v(_vm._s(_vm.label_text))]),
+            _vm._v(" "),
+            _vm.checkbox_required
+              ? _c("sup", { staticClass: "text-theme-danger-contrast" }, [
+                  _vm._v("\n                    *\n                ")
+                ])
+              : _vm._e()
+          ])
+        ])
+      ],
+      2
+    ),
     _vm._v(" "),
     _c("input", {
       directives: [
@@ -6819,7 +6864,7 @@ render._withStripped = true
 /***/ }),
 
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/core/forms/InputGroup.vue?vue&type=template&id=4090938a&":
-/*!*********************************************************************************************************************************************************************************************************************************!*
+/*!*********************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/core/forms/InputGroup.vue?vue&type=template&id=4090938a& ***!
   \*********************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6838,7 +6883,20 @@ var render = function() {
     _c(
       "label",
       { class: _vm.formatted_label_class, attrs: { for: _vm.input_id } },
-      [_vm._v("\n        " + _vm._s(_vm.label_text) + "\n    ")]
+      [
+        _vm._t("default", [
+          _c("span", { staticClass: "flex flex-row items-baseline" }, [
+            _c("span", [_vm._v(_vm._s(_vm.label_text))]),
+            _vm._v(" "),
+            _vm.input_required
+              ? _c("sup", { staticClass: "text-theme-danger-contrast" }, [
+                  _vm._v("\n                    *\n                ")
+                ])
+              : _vm._e()
+          ])
+        ])
+      ],
+      2
     ),
     _vm._v(" "),
     _c("input", {
@@ -6896,7 +6954,7 @@ render._withStripped = true
 /***/ }),
 
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/core/forms/SelectGroup.vue?vue&type=template&id=5aa394fe&":
-/*!**********************************************************************************************************************************************************************************************************************************!*
+/*!**********************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/core/forms/SelectGroup.vue?vue&type=template&id=5aa394fe& ***!
   \**********************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -6915,7 +6973,20 @@ var render = function() {
     _c(
       "label",
       { class: _vm.formatted_label_class, attrs: { for: _vm.select_id } },
-      [_vm._v("\n        " + _vm._s(_vm.label_text) + "\n    ")]
+      [
+        _vm._t("default", [
+          _c("span", { staticClass: "flex flex-row items-baseline" }, [
+            _c("span", [_vm._v(_vm._s(_vm.label_text))]),
+            _vm._v(" "),
+            _vm.select_required
+              ? _c("sup", { staticClass: "text-theme-danger-contrast" }, [
+                  _vm._v("\n                    *\n                ")
+                ])
+              : _vm._e()
+          ])
+        ])
+      ],
+      2
     ),
     _vm._v(" "),
     _c(
@@ -7003,7 +7074,7 @@ render._withStripped = true
 /***/ }),
 
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/admin/cms/template/Edit.vue?vue&type=template&id=4c2623c0&":
-/*!******************************************************************************************************************************************************************************************************************************!*
+/*!******************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/admin/cms/template/Edit.vue?vue&type=template&id=4c2623c0& ***!
   \******************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -7214,7 +7285,7 @@ render._withStripped = true
 /***/ }),
 
 /***/ "./node_modules/vuedraggable/dist/vuedraggable.umd.js":
-/*!************************************************************!*
+/*!************************************************************!*\
   !*** ./node_modules/vuedraggable/dist/vuedraggable.umd.js ***!
   \************************************************************/
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {

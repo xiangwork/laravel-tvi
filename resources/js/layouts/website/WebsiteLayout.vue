@@ -11,11 +11,11 @@
         name: "WebsiteLayout",
         metaInfo() {
             return {
-                title: 'Laravel TVI',
+                title: 'CT Barbers',
                 meta: [
                     {
                         name: 'description',
-                        content: 'Laravel TVI - A CMS powered by Laravel, Tailwind, Vue, and Inertia',
+                        content: 'CT Barbers - Gentlemen\'s barbers in Longton, Stoke on Trent',
                     }
                 ]
             }

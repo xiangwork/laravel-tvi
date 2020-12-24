@@ -1,7 +1,7 @@
 (self["webpackChunk"] = self["webpackChunk"] || []).push([["resources_js_pages_website_home_Index_vue"],{
 
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/website/home/Index.vue?vue&type=script&lang=js&":
-/*!********************************************************************************************************************************************************************************************************************!*
+/*!********************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/website/home/Index.vue?vue&type=script&lang=js& ***!
   \********************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -59,65 +59,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: "Index",
   layout: 'website-layout'
@@ -126,7 +67,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/website/home/Index.vue?vue&type=style&index=0&id=986248c2&scoped=true&lang=css&":
-/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/website/home/Index.vue?vue&type=style&index=0&id=986248c2&scoped=true&lang=css& ***!
   \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
@@ -150,7 +91,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, "\n.skewed-logo-bg[data-v-986248c2] {\n
 /***/ }),
 
 /***/ "./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/website/home/Index.vue?vue&type=style&index=0&id=986248c2&scoped=true&lang=css&":
-/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/website/home/Index.vue?vue&type=style&index=0&id=986248c2&scoped=true&lang=css& ***!
   \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -180,7 +121,7 @@ var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js
 /***/ }),
 
 /***/ "./resources/js/pages/website/home/Index.vue":
-/*!***************************************************!*
+/*!***************************************************!*\
   !*** ./resources/js/pages/website/home/Index.vue ***!
   \***************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -221,7 +162,7 @@ component.options.__file = "resources/js/pages/website/home/Index.vue"
 /***/ }),
 
 /***/ "./resources/js/pages/website/home/Index.vue?vue&type=script&lang=js&":
-/*!****************************************************************************!*
+/*!****************************************************************************!*\
   !*** ./resources/js/pages/website/home/Index.vue?vue&type=script&lang=js& ***!
   \****************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -237,7 +178,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/pages/website/home/Index.vue?vue&type=style&index=0&id=986248c2&scoped=true&lang=css&":
-/*!************************************************************************************************************!*
+/*!************************************************************************************************************!*\
   !*** ./resources/js/pages/website/home/Index.vue?vue&type=style&index=0&id=986248c2&scoped=true&lang=css& ***!
   \************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -250,7 +191,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./resources/js/pages/website/home/Index.vue?vue&type=template&id=986248c2&scoped=true&":
-/*!**********************************************************************************************!*
+/*!**********************************************************************************************!*\
   !*** ./resources/js/pages/website/home/Index.vue?vue&type=template&id=986248c2&scoped=true& ***!
   \**********************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -267,7 +208,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/website/home/Index.vue?vue&type=template&id=986248c2&scoped=true&":
-/*!*************************************************************************************************************************************************************************************************************************************!*
+/*!*************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/website/home/Index.vue?vue&type=template&id=986248c2&scoped=true& ***!
   \*************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -284,118 +225,93 @@ var render = function() {
   var _c = _vm._self._c || _h
   return _c(
     "div",
-    { staticClass: "bg-gray-100 flex flex-col min-h-screen min-w-screen" },
+    {
+      staticClass: " flex flex-col min-h-screen min-w-screen",
+      staticStyle: { background: "#323232" }
+    },
     [
-      _c("nav", { staticClass: "flex flex-row justify-end px-6 py-4" }, [
-        _c(
-          "ul",
-          {
-            staticClass:
-              "flex flex-row font-medium space-x-4 text-theme-base-contrast"
-          },
-          [
-            _vm.$page.props.auth.user
-              ? [
-                  _c("li", [
-                    _c(
-                      "a",
-                      {
-                        staticClass: "hover:text-theme-primary",
-                        attrs: { href: _vm.$route("admin.index") }
-                      },
-                      [
-                        _vm._v(
-                          "\n                        Admin\n                    "
-                        )
-                      ]
-                    )
-                  ])
-                ]
-              : [
-                  _vm.$routeCheck("login")
-                    ? _c(
-                        "li",
-                        [
-                          _c(
-                            "inertia-link",
-                            {
-                              staticClass: "hover:text-theme-primary",
-                              attrs: { href: _vm.$route("login") }
-                            },
-                            [
-                              _vm._v(
-                                "\n                        Login\n                    "
-                              )
-                            ]
-                          )
-                        ],
-                        1
-                      )
-                    : _vm._e(),
-                  _vm._v(" "),
-                  _vm.$routeCheck("register")
-                    ? _c(
-                        "li",
-                        [
-                          _c(
-                            "inertia-link",
-                            {
-                              staticClass: "hover:text-theme-primary",
-                              attrs: { href: _vm.$route("register") }
-                            },
-                            [
-                              _vm._v(
-                                "\n                        Register\n                    "
-                              )
-                            ]
-                          )
-                        ],
-                        1
-                      )
-                    : _vm._e()
-                ]
-          ],
-          2
-        )
-      ]),
-      _vm._v(" "),
       _c(
         "section",
-        { staticClass: "flex flex-1 flex-col items-center justify-center p-8" },
+        {
+          staticClass:
+            "flex flex-1 flex-col items-center justify-center p-8 text-white"
+        },
         [
-          _c("div", { staticClass: "relative" }, [
-            _c("div", {
+          _vm._m(0),
+          _vm._v(" "),
+          _c(
+            "ul",
+            {
               staticClass:
-                "\n                    skewed-logo-bg\n                    absolute bg-gradient-to-r from-blue-700 inset-0 to-blue-600 rounded-lg shadow-lg transform\n                "
-            }),
-            _vm._v(" "),
-            _c(
-              "h1",
-              {
-                staticClass:
-                  "\n                    bg-theme-base-contrast flex flex-row font-semibold items-center px-8 py-4 relative rounded-lg text-center text-3xl tracking-wide\n                    sm:text-6xl\n                "
-              },
-              [
-                _c("icon-logo-dark", { staticClass: "w-9 sm:w-16" }),
-                _vm._v(" "),
+                "flex flex-row flex-wrap font-bold justify-center pt-4 px-4 space-x-6 text-white text-underline tracking wide md:text-lg"
+            },
+            [
+              _c("li", [
                 _c(
-                  "span",
+                  "a",
                   {
-                    staticClass:
-                      "\n                        ml-3 text-white\n                        sm:ml-6\n                    "
+                    staticClass: "hover:text-mono-400",
+                    attrs: {
+                      href: "https://www.instagram.com/ct.barbers/",
+                      rel: "noopener noreferrer",
+                      target: "_blank",
+                      title: "Instagram"
+                    }
                   },
                   [
-                    _vm._v(
-                      "\n                    Laravel TVI\n                "
+                    _c(
+                      "svg",
+                      {
+                        staticClass:
+                          "icon icon-tabler icon-tabler-brand-instagram",
+                        attrs: {
+                          xmlns: "http://www.w3.org/2000/svg",
+                          width: "44",
+                          height: "44",
+                          viewBox: "0 0 24 24",
+                          "stroke-width": "1.5",
+                          stroke: "currentColor",
+                          fill: "none",
+                          "stroke-linecap": "round",
+                          "stroke-linejoin": "round"
+                        }
+                      },
+                      [
+                        _c("path", {
+                          attrs: {
+                            stroke: "none",
+                            d: "M0 0h24v24H0z",
+                            fill: "none"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("rect", {
+                          attrs: {
+                            x: "4",
+                            y: "4",
+                            width: "16",
+                            height: "16",
+                            rx: "4"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("circle", { attrs: { cx: "12", cy: "12", r: "3" } }),
+                        _vm._v(" "),
+                        _c("line", {
+                          attrs: {
+                            x1: "16.5",
+                            y1: "7.5",
+                            x2: "16.5",
+                            y2: "7.501"
+                          }
+                        })
+                      ]
                     )
                   ]
                 )
-              ],
-              1
-            )
-          ]),
-          _vm._v(" "),
-          _vm._m(0)
+              ])
+            ]
+          )
         ]
       )
     ]
@@ -406,74 +322,25 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c(
-      "ul",
-      {
-        staticClass:
-          "flex flex-row flex-wrap font-medium justify-center mt-8 pt-4 px-4 space-x-6 text-theme-base-contrast md:text-lg"
-      },
-      [
-        _c("li", [
-          _c(
-            "a",
-            {
-              staticClass: "hover:text-theme-primary",
-              attrs: {
-                href: "https://laravel.com/docs/",
-                rel: "noopener noreferrer",
-                target: "_blank"
-              }
-            },
-            [_vm._v("\n                    Laravel\n                ")]
-          )
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _c(
-            "a",
-            {
-              staticClass: "hover:text-theme-primary",
-              attrs: {
-                href: "https://tailwindcss.com/docs/",
-                rel: "noopener noreferrer",
-                target: "_blank"
-              }
-            },
-            [_vm._v("\n                    Tailwind\n                ")]
-          )
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _c(
-            "a",
-            {
-              staticClass: "hover:text-theme-primary",
-              attrs: {
-                href: "https://vuejs.org/v2/guide/",
-                rel: "noopener noreferrer",
-                target: "_blank"
-              }
-            },
-            [_vm._v("\n                    Vue.js\n                ")]
-          )
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _c(
-            "a",
-            {
-              staticClass: "hover:text-theme-primary",
-              attrs: {
-                href: "https://inertiajs.com/",
-                rel: "noopener noreferrer",
-                target: "_blank"
-              }
-            },
-            [_vm._v("\n                    Inertia.js\n                ")]
-          )
-        ])
-      ]
-    )
+    return _c("div", { staticClass: "relative text-center" }, [
+      _c(
+        "h1",
+        {
+          staticClass:
+            "\n                    flex flex-row font-semibold items-center px-8 py-4 relative rounded-lg text-center text-3xl tracking-wide\n                    sm:text-6xl\n                "
+        },
+        [_vm._v("\n                CT Barbers\n            ")]
+      ),
+      _vm._v(" "),
+      _c(
+        "h2",
+        {
+          staticClass:
+            "\n                    flex flex-row font-semibold items-center justify-center relative round text-mono-400 text-lg tracking-wide\n                    sm:text-3xl\n                "
+        },
+        [_vm._v("\n                Coming Soon...\n            ")]
+      )
+    ])
   }
 ]
 render._withStripped = true

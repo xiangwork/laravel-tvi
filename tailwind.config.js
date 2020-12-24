@@ -22,7 +22,7 @@ module.exports = {
     ],
     theme: {
         fontFamily: {
-            'sans': ['Poppins', ...defaultTheme.fontFamily.sans],
+            'serif': ['Merriwearher', ...defaultTheme.fontFamily.serif],
         },
         extend: {
             animation: {
